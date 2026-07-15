@@ -15,5 +15,5 @@ A Prolog programming project developed for the LP course (2025/2026) at Institut
 
 Load the main project file in SWI-Prolog:
 ```prolog
-swipl -s project.pl
+swipl -s LP2526P1.pl
 ```
